@@ -6,7 +6,7 @@ Drone: [![Drone Build Status](http://213.160.72.75/api/badges/joomla-extensions/
 
 This repo is meant to hold the decoupled com_weblinks component and related code.
 
-# How to test a PR
+# How to test a PR know more and interesting things about it
 
 ## With the [Patch Tester Component](https://github.com/joomla-extensions/patchtester/releases/latest)
 
